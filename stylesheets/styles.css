@@ -97,8 +97,6 @@ img {
 
 header {
   width:270px;
-  float:left;
-  position:fixed;
 }
 
 header ul {
@@ -161,7 +159,6 @@ header ul a strong {
 
 section {
   width:500px;
-  float:right;
   padding-bottom:50px;
 }
 
